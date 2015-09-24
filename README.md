@@ -21,6 +21,6 @@ From the data set in step 4, creates a second, independent tidy data set with th
 
 ## Guide to the Repo
 
-Download the file *run_analysis.R* and move it to the folder containing the dataset.
+Download the file `run_analysis.R` and move it to the folder containing the dataset.
 
-Run the *run_analysis.R* file to produce *tidyData.txt*, the tidy data set.
+Run the `run_analysis.R` file to produce `tidyData.txt`, the tidy data set.
